@@ -1,0 +1,6 @@
+com/techreads/controller/IndexController.class
+com/techreads/controller/BookController.class
+com/techreads/BootStrap.class
+com/techreads/repository/BookRepository.class
+com/techreads/TechreadsApplication.class
+com/techreads/model/Book.class
